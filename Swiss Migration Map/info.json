@@ -1,0 +1,10 @@
+{
+"title": "Einwanderung in die Schweiz: Eine demografische Visualisierung",
+"description": "Diese App visualisiert Einwanderungsdaten in der Schweiz von 2011 bis 2021. Zwei Karten geben einen Einblick in die Verteilung der Einwanderer: Eine Schweizer Karte zeigt die Verteilung nach Kantonen, während eine Weltkarte die Herkunftsländer und Altersgruppen der Einwanderer darstellt. Interaktive Elemente ermöglichen es den Benutzern, spezifische Kantone, Länder und Altersgruppen zu erforschen.",
+"authors": [
+    {"name": "Emre Alma", "email": "emre.alma@students.unibe.ch"}
+],
+"date": "2023-06-01",
+"category": "society",
+"software_license": "GNU General Public License v3"
+}
